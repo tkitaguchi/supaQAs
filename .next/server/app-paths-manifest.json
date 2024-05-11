@@ -1,4 +1,6 @@
 {
   "/page": "app/page.js",
-  "/home/page": "app/home/page.js"
+  "/home/page": "app/home/page.js",
+  "/create/page": "app/create/page.js",
+  "/home/[update]/page": "app/home/[update]/page.js"
 }

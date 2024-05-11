@@ -1,5 +1,22 @@
 {
-  "node": {},
+  "node": {
+    "e8c216bfdb27b8087d360e04b7ac0d69c7e0b67c": {
+      "workers": {
+        "app/create/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fstudent%2FDesktop%2FCPSC458WebEngineering%2FsupaQAs%2Fsrc%2Factions%2FcreateQA.tsx%22%2C%5B%22default%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/create/page": "action-browser"
+      }
+    },
+    "fc7935d82b930c74ad36f02e6037b546b1646609": {
+      "workers": {
+        "app/home/[update]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fstudent%2FDesktop%2FCPSC458WebEngineering%2FsupaQAs%2Fsrc%2Factions%2FupdateQA.tsx%22%2C%5B%22default%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/home/[update]/page": "action-browser"
+      }
+    }
+  },
   "edge": {},
-  "encryptionKey": "aNtHUItrKf9eCoXim/FXiJcbWwSnBTENGXyMii5xXzM="
+  "encryptionKey": "oT8hBu1fvefK2Kga7I1DCIxUk+kUgJ4R7OChoMHOJm8="
 }
